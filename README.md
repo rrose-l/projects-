@@ -12,7 +12,7 @@
            - What sets of skills, strategies, or values do you think are necessary to succeed in college?
            - What does the phrase “discovery experience” mean to you? 
         - This frequency analysis should be conducted in a batch across all students surveyed, but also in batches that only include responses of students in specific courses. Filter out terms/phrases that only appear once and include the percentages that represent how many times those terms/phrases are said out of the total responses for that batch.
-  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (IN PROGRESS)**
+  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED)**
       - <ins>Tools</ins>: Python, Tableau, scikit-learn library 
       - <ins>Description</ins>: The student pulse survey website is being converted to Tableau dashboards. These dashboards will be filterable. An example of the Tableau dashboard are the UCUES results on the website for the Office of Planning and Analysis.
       - <ins>NOTE</ins>: I worked on this project with my amazing coworkers (Meer Wu, Alex Nguyen, Ashley Alvarez, and Maricruz Montes de Oca-Sanchez). The multiselect_transformers file was initally created by me and edited by my peers. The singleselect_transformers and cleaning_transformers files were initially created by my coworkers and edited by me. They are included so that the data_source_generation file can be easily comprehended. The data source generated from this file is put into a Tableau workbook to create the completed published dashboards on https://ue.berkeley.edu/reports-data/student-surveys/student-pulse-survey!
