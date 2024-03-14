@@ -1,6 +1,10 @@
 # projects-
 # Data Analysis Projects (in progress and completed)
 - ## UC Berkeley UE Data Team 
+  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED - UNDER REVISION)**
+      - <ins>Tools</ins>: Python, Tableau, scikit-learn library 
+      - <ins>Description</ins>: The student pulse survey website is being converted to Tableau dashboards. These dashboards will be filterable. An example of the Tableau dashboard are the UCUES results on the website for the Office of Planning and Analysis.
+      - <ins>NOTE</ins>: I worked on this project with my amazing coworkers (Meer Wu, Alex Nguyen, Ashley Alvarez, and Maricruz Montes de Oca-Sanchez). The multiselect_transformers file was initally created by me and edited by my peers. The singleselect_transformers and cleaning_transformers files were initially created by my coworkers and edited by me. They are included so that the data_source_generation file can be easily comprehended. The data source generated from this file is put into a Tableau workbook to create the completed published dashboards on https://ue.berkeley.edu/reports-data/student-surveys/student-pulse-survey!
   -   ### **Data 8 and Data 100 Webscrape (COMPLETED)**
       - <ins>Tools</ins>: Python, BeautifulSoup
       - <ins>Description</ins>: A team of researchers with a National Science Foundation grant have been studying the diversity of data science students at UC Berkeley. As part of this grant, we (UE Data Team) administer surveys to students who are involved in data science. Each term we create a seed file for the survey. One part of the seed file is undergraduate students who are teaching for Data 8 and Data 100. We obtain the names and email addresses of these undergraduates from the Data 8 and Data 100 websites.
@@ -12,12 +16,12 @@
            - What sets of skills, strategies, or values do you think are necessary to succeed in college?
            - What does the phrase “discovery experience” mean to you? 
         - This frequency analysis should be conducted in a batch across all students surveyed, but also in batches that only include responses of students in specific courses. Filter out terms/phrases that only appear once and include the percentages that represent how many times those terms/phrases are said out of the total responses for that batch.
-  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED)**
-      - <ins>Tools</ins>: Python, Tableau, scikit-learn library 
-      - <ins>Description</ins>: The student pulse survey website is being converted to Tableau dashboards. These dashboards will be filterable. An example of the Tableau dashboard are the UCUES results on the website for the Office of Planning and Analysis.
-      - <ins>NOTE</ins>: I worked on this project with my amazing coworkers (Meer Wu, Alex Nguyen, Ashley Alvarez, and Maricruz Montes de Oca-Sanchez). The multiselect_transformers file was initally created by me and edited by my peers. The singleselect_transformers and cleaning_transformers files were initially created by my coworkers and edited by me. They are included so that the data_source_generation file can be easily comprehended. The data source generated from this file is put into a Tableau workbook to create the completed published dashboards on https://ue.berkeley.edu/reports-data/student-surveys/student-pulse-survey!
+  -   ### **Student Pulse Survey Natural Language Processing (COMPLETED)**
+      - <ins>Tools</ins>: Python, NLTK
+      - <ins>Description</ins>: Certain questions on the student pulse survey for a past semester asked students about their plans for summer enrollment. This project dissected the reasons behind why student chose NOT to enroll in UC Berkeley classes over the summer using natural language processing techniques like text tokenization, word frequency analysis, and sentiment analysis through testing and training sets. 
+  
 - ## Personal Projects
-  - ### **Spotify Streaming History Analysis (COMPLETED)**
+  - ### **Spotify Streaming History Analysis (COMPLETED - UNDER REVISION)**
     - <ins>Tools</ins>: Python, BeautifulSoup, selenium, requests, sci-kit learn, matplotlib, seaborn, Spotify API, spotipy
     - <ins>Updates</ins>: The Spotify streaming history data source has been created (SpotipyDataSource.ipynb) and imported into a Tableau dashboard! In the next week or so I will have the dashboard showing my analysis uploaded and this project will be finished :) 
     - <ins>Description</ins>: The primary aim of this project is to conduct a detailed analysis of my Spotify streaming history from the past year.
