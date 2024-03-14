@@ -17,7 +17,7 @@
       - <ins>Description</ins>: The student pulse survey website is being converted to Tableau dashboards. These dashboards will be filterable. An example of the Tableau dashboard are the UCUES results on the website for the Office of Planning and Analysis.
       - <ins>NOTE</ins>: I worked on this project with my amazing coworkers (Meer Wu, Alex Nguyen, Ashley Alvarez, and Maricruz Montes de Oca-Sanchez). The multiselect_transformers file was initally created by me and edited by my peers. The singleselect_transformers and cleaning_transformers files were initially created by my coworkers and edited by me. They are included so that the data_source_generation file can be easily comprehended. The data source generated from this file is put into a Tableau workbook to create the completed published dashboards on https://ue.berkeley.edu/reports-data/student-surveys/student-pulse-survey!
 - ## Personal Projects
-  - ### **Spotify Streaming History Analysis (IN PROGRESS)**
+  - ### **Spotify Streaming History Analysis (COMPLETED)**
     - <ins>Tools</ins>: Python, BeautifulSoup, selenium, requests, sci-kit learn, matplotlib, seaborn, Spotify API, spotipy
     - <ins>Updates</ins>: The Spotify streaming history data source has been created (SpotipyDataSource.ipynb) and imported into a Tableau dashboard! In the next week or so I will have the dashboard showing my analysis uploaded and this project will be finished :) 
     - <ins>Description</ins>: The primary aim of this project is to conduct a detailed analysis of my Spotify streaming history from the past year.
