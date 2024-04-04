@@ -1,4 +1,3 @@
-# projects-
 # Data Analysis Projects (in progress and completed)
 - ## UC Berkeley UE Data Team 
   -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED)**
