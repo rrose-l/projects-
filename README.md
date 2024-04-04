@@ -1,7 +1,7 @@
 # projects-
 # Data Analysis Projects (in progress and completed)
 - ## UC Berkeley UE Data Team 
-  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED - UNDER REVISION)**
+  -   ### **Pulse Survey Data Source & Tableau Dashboard Generation (COMPLETED)**
       - <ins>Tools</ins>: Python, Tableau, scikit-learn library 
       - <ins>Description</ins>: The student pulse survey website is being converted to Tableau dashboards. These dashboards will be filterable. An example of the Tableau dashboard are the UCUES results on the website for the Office of Planning and Analysis.
       - <ins>NOTE</ins>: I worked on this project with my amazing coworkers (Meer Wu, Alex Nguyen, Ashley Alvarez, and Maricruz Montes de Oca-Sanchez). The multiselect_transformers file was initally created by me and edited by my peers. The singleselect_transformers and cleaning_transformers files were initially created by my coworkers and edited by me. They are included so that the data_source_generation file can be easily comprehended. The data source generated from this file is put into a Tableau workbook to create the completed published dashboards on https://ue.berkeley.edu/reports-data/student-surveys/student-pulse-survey!
@@ -21,9 +21,8 @@
       - <ins>Description</ins>: Certain questions on the student pulse survey for a past semester asked students about their plans for summer enrollment. This project dissected the reasons behind why student chose NOT to enroll in UC Berkeley classes over the summer using natural language processing techniques like text tokenization, word frequency analysis, and sentiment analysis through testing and training sets. 
   
 - ## Personal Projects
-  - ### **Spotify Streaming History Analysis (COMPLETED - UNDER REVISION)**
+  - ### **Spotify Streaming History Analysis (COMPLETED)**
     - <ins>Tools</ins>: Python, BeautifulSoup, selenium, requests, sci-kit learn, matplotlib, seaborn, Spotify API, spotipy
-    - <ins>Updates</ins>: The Spotify streaming history data source has been created (SpotipyDataSource.ipynb) and imported into a Tableau dashboard! In the next week or so I will have the dashboard showing my analysis uploaded and this project will be finished :) 
     - <ins>Description</ins>: The primary aim of this project is to conduct a detailed analysis of my Spotify streaming history from the past year.
         - By examining the data, the goal is to identify any patterns or correlations between specific time periods (such as months or days) and the genres, beats per minute (BPM), or other characteristics of the songs I listened to during those periods. The project seeks to uncover whether there is a consistent association between certain periods of time and the musical preferences that align with my personal mood during those periods. For example, it aims to determine if there are specific genres or BPM ranges that tend to be more prevalent during times when I am feeling a particular way, such as energetic, relaxed, or reflective. By delving into this analysis, the project hopes to provide insights into my musical preferences and the emotional states that may have influenced my listening habits throughout the year. This information can contribute to a better understanding of how my mood fluctuates over time and how music plays a role in reflecting and influencing those emotional states.
   - ### **Jungle Spotify Music and Youtube Music Video Analysis (UPCOMING)**
