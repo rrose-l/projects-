@@ -21,6 +21,7 @@
   
 - ## Personal Projects
   - ### **Spotify Streaming History Analysis (COMPLETED)**
+  - https://tinyurl.com/spotifyunwrapped 
     - <ins>Tools</ins>: Python, BeautifulSoup, selenium, requests, sci-kit learn, matplotlib, seaborn, Spotify API, spotipy
     - <ins>Description</ins>: The primary aim of this project is to conduct a detailed analysis of my Spotify streaming history from the past year.
         - By examining the data, the goal is to identify any patterns or correlations between specific time periods (such as months or days) and the genres, beats per minute (BPM), or other characteristics of the songs I listened to during those periods. The project seeks to uncover whether there is a consistent association between certain periods of time and the musical preferences that align with my personal mood during those periods. For example, it aims to determine if there are specific genres or BPM ranges that tend to be more prevalent during times when I am feeling a particular way, such as energetic, relaxed, or reflective. By delving into this analysis, the project hopes to provide insights into my musical preferences and the emotional states that may have influenced my listening habits throughout the year. This information can contribute to a better understanding of how my mood fluctuates over time and how music plays a role in reflecting and influencing those emotional states.
